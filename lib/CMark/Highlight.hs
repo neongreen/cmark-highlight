@@ -1,6 +1,5 @@
 {-# LANGUAGE
-ViewPatterns,
-RecordWildCards
+ViewPatterns
   #-}
 
 
