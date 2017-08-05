@@ -1,3 +1,7 @@
+# next
+
+* Bumped dependencies.
+
 # 0.2.0.0
 
 * Renamed `highlight` to `highlightNode`.
