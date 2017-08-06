@@ -2,7 +2,8 @@ name:                cmark-highlight
 version:             0.2.0.0
 synopsis:            Code highlighting for cmark
 description:
-  Code highlighting for cmark
+  Code highlighting for cmark-parsed Markdown. Takes cmark AST, returns cmark
+  AST with code blocks highlighted.
 homepage:            http://github.com/aelve/cmark-highlight
 bug-reports:         http://github.com/aelve/cmark-highlight/issues
 license:             BSD3
